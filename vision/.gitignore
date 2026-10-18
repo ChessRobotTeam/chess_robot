@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行时产物
+output/
+samples/output/
+*.log
+
+# 大文件
+*.mp4
+*.avi
+*.bag
+*.onnx
+*.pt
+*.pth
